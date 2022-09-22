@@ -2,8 +2,7 @@
 <ul>
     <% for book in @books  %>
       <li>
-        <a href='<%= book_path(book) %>'>
-          <%= book.title %>
+        <%= link_to book.title, book %>
         </a>
       </li>
     <% end %>
