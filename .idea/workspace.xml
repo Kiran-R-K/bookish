@@ -2,11 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="25be0678-2aa1-4f69-8864-08a7c4de5618" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/app/views/books/show.html.erb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/54d1cb92-12a7-4eb8-b7e9-5d55dd1e1159.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/54d1cb92-12a7-4eb8-b7e9-5d55dd1e1159.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/controllers/books_controller.rb" beforeDir="false" afterPath="$PROJECT_DIR$/app/controllers/books_controller.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/views/books/index.html.erb" beforeDir="false" afterPath="$PROJECT_DIR$/app/views/books/index.html.erb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/config/routes.rb" beforeDir="false" afterPath="$PROJECT_DIR$/config/routes.rb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -132,7 +127,7 @@
       <updated>1663759734757</updated>
       <workItem from="1663759735947" duration="5575000" />
       <workItem from="1663771139800" duration="5448000" />
-      <workItem from="1663839741610" duration="2445000" />
+      <workItem from="1663839741610" duration="2622000" />
     </task>
     <servers />
   </component>
