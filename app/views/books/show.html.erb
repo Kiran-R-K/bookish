@@ -4,4 +4,8 @@
 
 <ul>
   <li><%= link_to "Edit record", edit_book_path(@book) %></li>
+  <li><%= link_to "Delete book", book_path(@book), data: {
+    turbo_method: :delete,
+    turbo_confirm: "Are you sure you want to delete this book from the library?"
+  } %></li>
 </ul>
